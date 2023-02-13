@@ -1,6 +1,8 @@
 <?php
 require('common.inc.php');
 
+#vou alterar alguns cursos 
+
 $regraCurso = new Curso();
 
 try {
